@@ -8,6 +8,10 @@
 - __Обєм пам'яті__-500гб.
 - __Блок живлення__-VENDETA 400w.
 ## Фото PC
+<img src="PC1.jpg" alt="PC1" width="300" height="400">
+<img src="PC2.jpg" alt="PC2" width="300" height="400">
+<img src="PC3.jpg" alt="PC3" width="300" height="400">
 
+## Це [посилання на відеоогляд]([https://example.com](https://classroom.google.com/u/1/c/NjQzMjI1NTYyNjEw/a/NjQzMjI1NTYyNzAz/details)https://classroom.google.com/u/1/c/NjQzMjI1NTYyNjEw/a/NjQzMjI1NTYyNzAz/details).
 
 
